@@ -1,0 +1,6 @@
+﻿Símbolo,Descrição,Valor
+A,Chuvas intensas detectadas,"0 = não, 1 = sim"
+B,Vento forte detectado,"0 = não, 1 = sim"
+C,Umidade do solo muito alta,"0 = não, 1 = sim"
+D,Temperatura extremamente elevada,"0 = não, 1 = sim"
+E,Sistema ativado (liga/desliga o alarme),"0 = desligado, 1 = ligado"
